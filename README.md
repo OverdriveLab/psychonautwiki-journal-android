@@ -1,3 +1,10 @@
+中文简体/繁体支持
+🔔 智能提醒系统，支持自定义时间安排
+📸 定时笔记支持图片附件
+🎨 完整Material 3界面重设计，5种独特列表样式
+💾 高级导入导出，实时进度跟踪
+[下载](https://github.com/OverdriveLab/psychonautwiki-journal-android/releases/latest)
+
 Copyright (C) 2022 Isaak Hanimann.
 
 See the end of the file for license conditions.
@@ -9,9 +16,9 @@ This app is built natively with [Jetpack Compose](https://developer.android.com/
 
 This is an open source fork that maintains development after the project closed.
 
-![A presentation of the App](https://github.com/huanli233/psychonautwiki-journal-android/blob/main/metadata/en-US/images/Google%20Pixel%204%20XL%20Presentation.png?raw=true)
+![A presentation of the App](https://github.com/OverdriveLab/psychonautwiki-journal-android/blob/main/metadata/en-US/images/Google%20Pixel%204%20XL%20Presentation.png?raw=true)
 
-Download the latest version from [GitHub releases](https://github.com/huanli233/psychonautwiki-journal-android/releases/latest).
+Download the latest version from [GitHub releases](https://github.com/OverdriveLab/psychonautwiki-journal-android/releases/latest).
 
 ## License
 

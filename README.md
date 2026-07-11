@@ -17,7 +17,7 @@ This app is built natively with [Jetpack Compose](https://developer.android.com/
 
 This is an open source fork that maintains development after the project closed.
 
-![A presentation of the App](https://github.com/OverdriveLab/psychonautwiki-journal-android/blob/main/metadata/en-US/images/Google%20Pixel%204%20XL%20Presentation.png?raw=true)
+![A presentation of the App](https://github.com/OverdriveLab/psychonautwiki-journal-android/blob/main/metadata/en-US/images/image.jpg?raw=true)
 
 Download the latest version from [GitHub releases](https://github.com/OverdriveLab/psychonautwiki-journal-android/releases/latest).
 

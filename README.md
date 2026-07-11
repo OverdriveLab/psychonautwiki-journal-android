@@ -1,9 +1,9 @@
-中文简体/繁体支持
-🔔 智能提醒系统，支持自定义时间安排
-📸 定时笔记支持图片附件
-🎨 完整Material 3界面重设计，5种独特列表样式
-💾 高级导入导出，实时进度跟踪
-[下载](https://github.com/OverdriveLab/psychonautwiki-journal-android/releases/latest)
+# 中文简体/繁体支持  
+🔔 智能提醒系统，支持自定义时间安排  
+📸 定时笔记支持图片附件  
+🎨 完整Material 3界面重设计，5种独特列表样式  
+💾 高级导入导出，实时进度跟踪  
+[下载](https://github.com/OverdriveLab/psychonautwiki-journal-android/releases/latest)  
 
 Copyright (C) 2022 Isaak Hanimann.
 

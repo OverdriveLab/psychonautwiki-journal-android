@@ -4,6 +4,7 @@
 🎨 完整Material 3界面重设计，5种独特列表样式  
 💾 高级导入导出，实时进度跟踪  
 [下载](https://github.com/OverdriveLab/psychonautwiki-journal-android/releases/latest)  
+感谢@huanli233  
 
 Copyright (C) 2022 Isaak Hanimann.
 
